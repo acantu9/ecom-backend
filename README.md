@@ -11,6 +11,7 @@ Back end for an e-commerce site
 - [Installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
+- [Credits](#credits)
 - [Questions](#questions)
  
 ## Installation
@@ -52,7 +53,11 @@ Please note that this project does not accept contributions from external contri
 
 
 If you have any suggestions or feedback, you can reach out to the project maintainer directly. Thank you for your understanding.
- 
+
+## Credits
+[Blackbox Ai](blackbox.ai)
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/)
+
 ## Questions
  
 For any questions, please contact me:
